@@ -46,4 +46,4 @@ Output (Çıktı):
   "message": "Merhaba dostum, bu fonksiyon bulutta çalışıyor!",
   "input_event": { ... }
 }
-
+    
