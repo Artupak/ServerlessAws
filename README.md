@@ -1,5 +1,5 @@
 # ServerlessAws
-# My First Serverless Function+ (Ödev Projesi)
+
 
 Bu proje, AWS Lambda ve API Gateway kullanılarak geliştirilen sunucusuz bir API ödevidir.
 
