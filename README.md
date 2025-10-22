@@ -46,4 +46,8 @@ Output (Çıktı):
   "message": "Merhaba dostum, bu fonksiyon bulutta çalışıyor!",
   "input_event": { ... }
 }
-    
+#### Çalışan API Çıktısı (Parametreli)
+![Test Çıktısı Parametreli](GORSELLER/ilk.png)
+
+#### Çalışan API Çıktısı (Parametresiz)
+![Test Çıktısı Parametresiz](GORSELLER/iki.png)
