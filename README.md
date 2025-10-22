@@ -26,7 +26,11 @@ Bu fonksiyon AWS Konsolu üzerinden manuel olarak deploy edilmiştir:
 
 API'yi test etmek için bir tarayıcı veya `curl` kullanılabilir.
 
-### Senaryo 1: Parametreli İstek
+
+![Test Çıktısı Parametreli](GORSELLER/ilk.png)
+
+![Test Çıktısı Parametresiz](GORSELLER/iki.png)
+
 
 **Input (İstek):**
 ```bash
@@ -46,8 +50,3 @@ Output (Çıktı):
   "message": "Merhaba dostum, bu fonksiyon bulutta çalışıyor!",
   "input_event": { ... }
 }
-#### Çalışan API Çıktısı (Parametreli)
-![Test Çıktısı Parametreli](GORSELLER/ilk.png)
-
-#### Çalışan API Çıktısı (Parametresiz)
-![Test Çıktısı Parametresiz](GORSELLER/iki.png)
