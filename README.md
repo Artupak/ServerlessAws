@@ -22,6 +22,11 @@ Bu fonksiyon AWS Konsolu üzerinden manuel olarak deploy edilmiştir:
 3.  **Kod:** `lambda_function.py` dosyasındaki kod, Lambda konsolundaki kod editörüne yapıştırıldı ve "Deploy" edildi.
 4.  **Tetikleyici:** Fonksiyona "API Gateway" tetikleyicisi eklendi. "HTTP API" tipi ve "Open" güvenlik ayarı seçilerek internetten erişilebilir bir API endpoint'i oluşturuldu.
 
+![Test Çıktısı Parametreli](GORSELLER/ilk.png)
+
+![Test Çıktısı Parametresiz](GORSELLER/iki.png)
+
+
 ## Test Senaryosu
 
 API'yi test etmek için bir tarayıcı veya `curl` kullanılabilir.
@@ -35,8 +40,5 @@ Output;
   "input_event": { ... }
 }
 
-![Test Çıktısı Parametreli](GORSELLER/ilk.png)
-
-![Test Çıktısı Parametresiz](GORSELLER/iki.png)
 
 
